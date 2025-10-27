@@ -1,6 +1,6 @@
 ## Project Overview
 
-This is a Case Management System built to help users (victims) register and track cases online.
+This is a Women Safety Management System built to help users (victims) register and track cases online.
 It supports two roles Admin and User, each with their own dashboard and operations.
 
 The project runs on a web server (Run → On Server).
