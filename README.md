@@ -41,7 +41,7 @@ WorkplaceHarassmentCase
 
 ## Technology Used
 
-JSP & Servlets
+JSP & Servlets & HIbernate
 
 Java
 
